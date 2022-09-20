@@ -1,6 +1,3 @@
-"""
-I will use this file to do my CS101 project.
-"""
 import pandas as pd
 import time
 import random
